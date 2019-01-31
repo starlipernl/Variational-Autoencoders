@@ -1,4 +1,4 @@
 # Variational-Autoencoders
 Development of Variational Autoencoders using Keras
 
-See the pdf file in this repo for a detailed report on this code and results visualizations.
+See the [report](VAE_MNIST_report.pdf) for more info on this code and results visualizations.
